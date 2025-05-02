@@ -27,7 +27,7 @@ USER_FILE = "users.json"
 LOG_FILE = "log.txt"
 KEY_FILE = "keys.json"
 RESELLERS_FILE = "resellers.json"
-BOT_LINK = "@PAIDCAPTIONALEXBOT"
+BOT_LINK = "@PAIDCAPTIONKINGBOT"
 escaped_bot_link = BOT_LINK.replace('_', '\\_')
 
 # Per key cost for resellers
